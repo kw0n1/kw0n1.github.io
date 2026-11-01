@@ -83,18 +83,18 @@ export async function getCategoryList(): Promise<Category[]> {
 		return import.meta.env.PROD ? data.draft !== true : true;
 	});
 	const count: { [key: string]: number } = {};
-	const DEFAULT_CATEGORIES = [
-		"개발",
-		"CTF||Wargame",
-		"Bug Bounty",
-		"블로그||기술문서",
-		"논문||컨퍼런스",
-		"공모전||자격증",
-	];
+	// const DEFAULT_CATEGORIES = [
+	// 	"개발",
+	// 	"CTF||Wargame",
+	// 	"Bug Bounty",
+	// 	"블로그||기술문서",
+	// 	"논문||컨퍼런스",
+	// 	"공모전||자격증",
+	// ];
 
-	DEFAULT_CATEGORIES.forEach((cat) => {
-		count[cat.trim()] = 0;
-	});
+	// DEFAULT_CATEGORIES.forEach((cat) => {
+	// 	count[cat.trim()] = 0;
+	// });
 
 	allBlogPosts.forEach((post: { data: { category: string | null } }) => {
 		if (!post.data.category) {
