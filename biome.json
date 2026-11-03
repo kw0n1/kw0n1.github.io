@@ -23,7 +23,10 @@
 	"linter": {
 		"enabled": true,
 		"rules": {
-			"recommended": false,
+			"recommended": true,
+			"complexity": {
+				"noExtraBooleanCast": "off"
+			},
 			"style": {
 				"noParameterAssign": "error",
 				"useAsConstAssertion": "error",
