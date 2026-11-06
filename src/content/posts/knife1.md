@@ -3,7 +3,7 @@ title: '나이프 활동을 시작하며'
 published: 2026-11-05
 description: ''
 image: ''
-tags: []
+tags: [Knights Frontier]
 category: '블로그||기술문서'
 draft: false 
 lang: ''
