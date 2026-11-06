@@ -1,7 +1,7 @@
 ---
 title: 회고
 published: 2026-11-06
-description: ''
+description: '입학부터 2학년이 되기까지의 회고'
 image: ''
 tags: [Knights Frontier]
 category: '블로그||기술문서'
