@@ -1,7 +1,7 @@
 ---
-title: 261106 보안 이슈 — OpenSSH 취약점으로 Alpine Linux 서버 pw 우회 가능
+title: 261106 보안 이슈
 published: 2026-11-06
-description: ''
+description: — OpenSSH 취약점으로 Alpine Linux 서버 pw 우회 가능
 image: ''
 tags: [보안 이슈]
 category: 블로그||기술문서
