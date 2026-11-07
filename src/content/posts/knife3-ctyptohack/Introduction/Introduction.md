@@ -1,10 +1,10 @@
 ---
-title: Introduction 1-3
+title: Introduction
 published: 2026-11-07
 description: 'CRYPTOHACK Introduction Problems'
 image: ''
 tags: [cryptohack]
-category: 'CTF/Wargame'
+category: 'CTF||Wargame'
 draft: false 
 lang: ''
 ---
@@ -81,4 +81,4 @@ print(response)
 `json.loads()` 는 JSON 타입 객체를 python 딕셔너리로 가져온다. 
 
 코드에서 "clothes" 부분을 "flag"로 변경해 주면 되겠다.  
-:spoiler[crypto{sh0pp1ng_f0r_fl4g5}]!
+:spoiler[crypto{sh0pp1ng_f0r_fl4g5}]

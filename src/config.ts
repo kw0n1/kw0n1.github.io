@@ -32,7 +32,6 @@ export const siteConfig: SiteConfig = {
 	},
 	favicon: [
 		// 파비콘 커스텀
-		// Leave this array empty to use the default favicon
 		// {
 		//   src: '/favicon/icon.png',    // Path of the favicon, relative to the /public directory
 		//   theme: 'light',              // (Optional) Either 'light' or 'dark', set only if you have different favicons for light and dark mode
@@ -48,6 +47,30 @@ export const navBarConfig: NavBarConfig = {
 		// LinkPreset.Archive,
 		// LinkPreset.About,
 		{
+			name: "/벅바",
+			url: "/archive/?category=Bug%20Bounty",
+		},
+		{
+			name: "/롸업",
+			url: "/archive/?category=CTF%7C%7CWargame",
+		},
+		{
+			name: "/문서",
+			url: "/archive/?category=블로그%7C%7C기술문서",
+		},
+		{
+			name: "/논문",
+			url: "/archive/?category=논문%7C%7C컨퍼런스",
+		},
+		{
+			name: "/개발",
+			url: "/archive/?category=개발",
+		},
+		{
+			name: "/공모",
+			url: "/archive/?category=공모전%7C%7C자격증",
+		},
+		{
 			name: "/Archive",
 			url: "/archive/",
 		},
@@ -55,11 +78,11 @@ export const navBarConfig: NavBarConfig = {
 			name: "/About",
 			url: "/about/",
 		},
-		{
-			name: "/GitHub",
-			url: "https://github.com/kw0n1", // Internal links should not include the base path, as it is automatically added
-			external: true, // Show an external link icon and will open in a new tab
-		},
+		// {
+		// 	name: "/GitHub",
+		// 	url: "https://github.com/kw0n1", // Internal links should not include the base path, as it is automatically added
+		// 	external: true, // Show an external link icon and will open in a new tab
+		// },
 	],
 };
 
@@ -81,11 +104,11 @@ export const profileConfig: ProfileConfig = {
 		// 	icon: "fa6-brands:steam",
 		// 	url: "https://store.steampowered.com",
 		// },
-		// {
-		// 	name: "GitHub",
-		// 	icon: "fa6-brands:github",
-		// 	url: "https://github.com/kw0n1",
-		// },
+		{
+			name: "",
+			icon: "fa6-brands:github",
+			url: "https://github.com/kw0n1",
+		},
 	],
 };
 
