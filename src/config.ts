@@ -32,7 +32,6 @@ export const siteConfig: SiteConfig = {
 	},
 	favicon: [
 		// 파비콘 커스텀
-		// Leave this array empty to use the default favicon
 		// {
 		//   src: '/favicon/icon.png',    // Path of the favicon, relative to the /public directory
 		//   theme: 'light',              // (Optional) Either 'light' or 'dark', set only if you have different favicons for light and dark mode
