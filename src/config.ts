@@ -106,7 +106,7 @@ export const profileConfig: ProfileConfig = {
 		// 	url: "https://store.steampowered.com",
 		// },
 		{
-			name: "GitHub",
+			name: "",
 			icon: "fa6-brands:github",
 			url: "https://github.com/kw0n1",
 		},
