@@ -1,10 +1,10 @@
 ---
-title: Genera — Encoding
+title: General — Encoding
 published: 2026-11-07
 description: 'CRYPTOHACK General Problems'
 image: ''
 tags: [cryptohack]
-category: 'CTF/Wargame'
+category: 'CTF||Wargame'
 draft: false 
 lang: ''
 ---
@@ -20,7 +20,7 @@ array = [99, 114, 121, 112, 116, 111, 123, 65, 83, 67, 73, 73, 95, 112, 114, 49,
 str = "".join(chr(c) for c in array)
 print(str)
 ```
-:spoiler[crypto{ASCII_pr1nt4bl3}]!
+:spoiler[crypto{ASCII_pr1nt4bl3}]
 
 ---
 
@@ -33,7 +33,7 @@ print(str)
 hexStr = "63727970746f7b596f755f77696c6c5f62655f776f726b696e675f776974685f6865785f737472696e67735f615f6c6f747d"
 print(bytes.fromhex(hexStr))
 ```
-:spoiler[crypto{You_will_be_working_with_hex_strings_a_lot}]!
+:spoiler[crypto{You_will_be_working_with_hex_strings_a_lot}]
 
 ---
 
@@ -54,7 +54,7 @@ hexStr = "72bca9b68fc16ac7beeb8f849dca1d8a783e8acf9679bf9269f7bf"
 res = base64.b64encode(bytes.fromhex(hexStr))
 print(res)
 ```
-:spoiler[crypto/Base+64+Encoding+is+Web+Safe/]!
+:spoiler[crypto/Base+64+Encoding+is+Web+Safe/]
 
 ---
 
@@ -74,7 +74,7 @@ cipherText = 1151519506386231889993168548881374739577551628728968263649996528271
 byteStr = long_to_bytes(cipherText) # 바이트로 변환 
 print(byteStr)
 ```
-:spoiler[crypto{3nc0d1n6_4ll_7h3_w4y_d0wn}]!
+:spoiler[crypto{3nc0d1n6_4ll_7h3_w4y_d0wn}]
 
 :::note
 라고 생각했었는데, 주어진 숫자를 long_to_bytes()로 변환하니 플래그가 얻어졌다. 왜 바로 얻어졌지?  
@@ -196,7 +196,7 @@ for i in range (100):
 received = json_recv()
 print(received["flag"])
 ```
-:spoiler[crypto{3nc0d3_d3c0d3_3nc0d3}]!
+:spoiler[crypto{3nc0d3_d3c0d3_3nc0d3}]
 
 ---
 
