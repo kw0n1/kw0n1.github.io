@@ -1,5 +1,5 @@
 ---
-title: Introduction 1-3
+title: Introduction
 published: 2026-11-07
 description: 'CRYPTOHACK Introduction Problems'
 image: ''
