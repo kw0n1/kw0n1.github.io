@@ -49,27 +49,27 @@ export const navBarConfig: NavBarConfig = {
 		// LinkPreset.About,
 		{
 			name: "/벅바",
-			url: "/archive/category/Bug%20Bounty/",
+			url: "/archive/?category=Bug%20Bounty",
 		},
 		{
 			name: "/롸업",
-			url: "/archive/category/CTF%7C%7CWargame/",
+			url: "/archive/?category=CTF%7C%7CWargame",
 		},
 		{
 			name: "/문서",
-			url: "/archive/category/블로그%7C%7C기술문서/",
+			url: "/archive/?category=블로그%7C%7C기술문서",
 		},
 		{
 			name: "/논문",
-			url: "/archive/category/논문%7C%7C컨퍼런스/",
+			url: "/archive/?category=논문%7C%7C컨퍼런스",
 		},
 		{
 			name: "/개발",
-			url: "/archive/category/개발/",
+			url: "/archive/?category=개발",
 		},
 		{
 			name: "/공모",
-			url: "/archive/category/공모전%7C%7C자격증/",
+			url: "/archive/?category=공모전%7C%7C자격증",
 		},
 		{
 			name: "/Archive",
