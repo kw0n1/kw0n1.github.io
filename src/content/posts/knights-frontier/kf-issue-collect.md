@@ -2,7 +2,7 @@
 title: 26년 보안 이슈 스크랩
 published: 2026-11-06
 description: '매일 x에 올라오는 보안 이슈 스크랩하기'
-image: ''
+image: ./img/issueimage.png
 tags: [보안 이슈]
 category: 블로그||기술문서
 draft: false 
