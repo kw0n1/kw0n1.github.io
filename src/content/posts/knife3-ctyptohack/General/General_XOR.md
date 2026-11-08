@@ -139,3 +139,5 @@ lemur = cv2.imread('./lemur_ed66878c338e662d3473f0d98eedbd0d.png')
 res = cv2.bitwise_xor(flag, lemur) 
 cv2.imwrite('./flag.png', res) # 이미지 저장
 ```
+실행해보면 이런 이미지를 던져준다. ![](./img/flag.png)
+:spoiler[crypto{X0Rly_n0t!}]
