@@ -6,7 +6,7 @@ image: ''
 tags: [cryptohack]
 category: 'CTF||Wargame'
 draft: false 
-lang: ''
+lang: 'ko'
 ---
 
 # 1. ASCII
