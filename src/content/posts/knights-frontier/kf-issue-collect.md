@@ -11,7 +11,7 @@ lang: 'ko'
 
 # 11月
 ## 09日
-[React 서버 컴포넌트 결함](https://x.com/The_Cyber_News/status/2119713352507335105)
+[React 서버 컴포넌트 결함](https://x.com/The_Cyber_News/status/2119713352507335105)  
 GHSA-xqc2-xf4c-x3h3 — 공격자가 로그인(인증) 없이 원격으로 코드 실행 가능(RCE) 
 
 ## 08日
