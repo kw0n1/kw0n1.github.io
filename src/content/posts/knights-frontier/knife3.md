@@ -1,5 +1,5 @@
 ---
-title: [논문 리뷰]
+title: '논문 리뷰'
 published: 2026-11-09
 description: ''
 image: ''
