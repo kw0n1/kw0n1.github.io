@@ -10,6 +10,10 @@ lang: 'ko'
 ---
 
 # 11月
+## 09日
+[React 서버 컴포넌트 결함](https://x.com/The_Cyber_News/status/2119713352507335105)
+GHSA-xqc2-xf4c-x3h3 — 공격자가 로그인(인증) 없이 원격으로 코드 실행 가능(RCE) 
+
 ## 08日
 [ChatGPT Lockdown Mode 우회 취약점](https://x.com/The_Cyber_News/status/2119247150672695322)
 
@@ -18,7 +22,7 @@ Lockdown mode는 데이터 유출을 막기 위한 보안 설정. 숨겨진 팝�
 ## 07日
 [WordPress Core 취약점을 이용한 RCE](https://x.com/The_Cyber_News/status/2118970448402952590)
 
-CVE-2026-119977 취약점을 이용. 노출된 설치 프로그램에 접근한 공격자가 단계별 설치 완료 후 관리자 계정 생성 후 악성 PHP 코드 업로드 가능 
+CVE-2026-119977 취약점 — 노출된 설치 프로그램에 접근한 공격자가 단계별 설치 완료 후 관리자 계정 생성 후 악성 PHP 코드 업로드 가능 
 
 ## 06日
 [OpenSSH 취약점을 이용한 Alpine Linux 서버 pw 우회](https://x.com/The_Cyber_News/status/2118360544503881736)
