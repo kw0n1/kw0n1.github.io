@@ -29,7 +29,15 @@ def gcd(a, b):
 :spoiler[1512]
 
 # 2. Extended GCD
+![](./img/Extended%20GCD.png)
+산 넘어 산이다.. 이건 또 무슨 소리 일까요?  
 
+a, b > 0 일 때, 유클리드 호제법은 a * u + b * v = gcd(a, b)에서 u, v를 찾는 효율적인 알고리즘이다.  
+> 암호화된 RSA 암호문 해독에서 public exponent의 모듈러 역수(modular inverse) 계산에 필요하다.  
+우선은 이게 뭔지 부터 알아보죠.. 알아보니 양이 많아서 다른 포스트에 정리해두겠습니다.    
+
+
+문제는 p=26513, q=32321 일 때, p * u + q * v = gcd(p,q)를 만족하는 u, v를 찾는 것이다. 
 # 3. Modular Arithmetic 1
 
 # 4. Modular Arithmetic 2
