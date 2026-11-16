@@ -10,9 +10,20 @@ lang: 'ko'
 ---
 
 # 11月
+## 16日
+[]()
+
+## 15日
+[ARTEX AI 에이전트를 사용한 권한 있는 액세스 얻기](https://x.com/The_Cyber_News/status/2121786067217183153)  
+ARTEX AI 에이전트를 사용해 기존 취약점들을 연결한 공격을 자동화 중. 일부 침입이 3시간 이내에 권한 있는 액세스에 도달
+
+## 14日
+[Check Point 0-Day 취약점을 이용한 루트 액세스 권한 획득: CVE-2026-123039](https://x.com/The_Cyber_News/status/2121502390960414879)  
+루트 권한으로 실행되어 확장된 명령줄 기능을 처리하는 dynamic_server 프로세스가 /tmp/dynamic_socket 을 통해 요청 수신. 해당 소켓 권한이 취약한 시스템에서는 0777로 설정됨 
+
 ## 13日
 [대규모 Microsoft 365 장애](https://cybersecuritynews.com/microsoft-365-massive-outage-fixes-fail-as-restored-servers-keep-going-unresponsive/)  
-11월 12일부터 시작되었으며 MS 365 장애가 10시간 이상 지속되며 Teams, Copilot등 주요 서비스 및 OpenAI 등 서드파티 연동 기능까지 광범위한 피해를 입음. 현재 엔지니어들이 서버를 재시작하여 복구해도 실사용자 트래픽이 유입되면 코어 프로세스 과부하로 다시 응답 불능 상태에 빠지는 현상이 반복중임. 사이버 공격이나 침해 사고는 아닌 것으로 판명ㄴ
+11월 12일부터 시작되었으며 MS 365 장애가 10시간 이상 지속되며 Teams, Copilot등 주요 서비스 및 OpenAI 등 서드파티 연동 기능까지 광범위한 피해를 입음. 현재 엔지니어들이 서버를 재시작하여 복구해도 실사용자 트래픽이 유입되면 코어 프로세스 과부하로 다시 응답 불능 상태에 빠지는 현상이 반복중임. 사이버 공격이나 침해 사고는 아닌 것으로 판명남
 
 ## 12日
 [Apache HTTP/2 모듈 RCE 취약점: CVE-2026-119618](https://x.com/The_Cyber_News/status/2120788514975400420)  
