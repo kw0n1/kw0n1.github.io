@@ -129,6 +129,8 @@ HIDS와 내용 동일. 단, 직접 조치해주어야 하기 때문에 실제 �
 
 ---
 
+>   조치까지 해주면 IPS 가 더 좋은게 아닌가? 라는 생각을 하면서 공부를 시작했다. IDS는 직접 조치를 하기 때문에 공격받을 수 있는 위치에 놓여있어야 한다는 것을 알게 되었고, 마냥 자동화가 좋기만 한 것은 아닌 것 같다는 생각이 들었다. 
+
 [참고 자료]
 - [IBM - IDS](https://www.ibm.com/kr-ko/think/topics/intrusion-detection-system#437817031)
 - [IBM - IPS](https://www.ibm.com/kr-ko/think/topics/intrusion-prevention-system#437817032)
