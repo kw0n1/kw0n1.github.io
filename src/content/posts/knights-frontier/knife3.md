@@ -1,6 +1,7 @@
 ---
 title: '[논문 리뷰] Power-Related Side-Channel Attacks using the Android Sensor Framework'
 published: 2026-11-09
+updated: 2026-11-16
 description: 'Android 센서 프레임 워크를 이용한 전력 부채널 공격'
 image: './img/3/pre.png'
 tags: [논문 리뷰]
