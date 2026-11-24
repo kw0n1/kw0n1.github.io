@@ -5,7 +5,7 @@ description: 'Fuzzing and Fuzzer'
 image: ''
 tags: [knights Frontier]
 category: '블로그||기술문서'
-draft: true  
+draft: false  
 lang: ''
 ---
 > 영어를 쓰기 귀찮은 관계로 본문에서는 퍼징이라고 칭하겠다. 
