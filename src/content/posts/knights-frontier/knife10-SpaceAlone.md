@@ -4,7 +4,7 @@ published: 2026-11-23
 description: ''
 image: ''
 tags: []
-category: ''
+category: 'CTF||Wargame'
 draft: true  
 lang: ''
 ---
